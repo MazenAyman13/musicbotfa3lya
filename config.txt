@@ -3,4 +3,4 @@ prefix=r
 game=rplay
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTY2NTIyOTg0NTAwNTU5ODcy.XNHcgg.LYG5DeiyvgPDn7N6fFrbm4X-LQA
